@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi  I’m Gabriel Dalmazo
+
+Começando a vida como programador, ainda beeem novato :innocent:.
+
+Estudante da Unipampa em Engenharia da Computação :dizzy:.
+
+Aprendendo C e iniciando o aprendizado em HTML também :nerd_face::nerd_face:.
 
 <!--
 **gabrieldal/gabrieldal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
