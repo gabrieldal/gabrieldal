@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigabrieldalanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+Hi!! Im Gabriel Dalmazo
 
 
 Começando a vida como programador, ainda beeem novato :innocent:.
