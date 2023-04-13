@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando engenharia da computação<br>Servidor Público<br>Aprendendo a desenvolver em java<br>
+Cursando engenharia da computação<br>Servidor Público<br>Aprendendo a desenvolver em Python<br>
 
 
 # 💻 Tech Stack:
